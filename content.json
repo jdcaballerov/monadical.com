@@ -495,23 +495,21 @@
         "image": "/static/max.jpg"
       }
     },
-    "test2": {
-      "title": "TEST3 ASDADS",
-      "description": "ASDASDAS ASDASDASD",
-      "date": "2020-07-11",
-      "img": "/static/test2",
-      "tags": [
-        "HOLA"
-      ],
-      "length": "31 min read",
-      "source": "https://docs.monadical.com/s/asdasd",
-      "url": "/posts/test2.html",
-      "template": "posts/test2.html",
+    "commits": {
+      "title": "Hey Commit",
+      "description": "asdasd asdasd asda d",
+      "date": "2020-07-10",
+      "img": "/static/commits",
+      "tags": [],
+      "length": "14 min read",
+      "source": "https://docs.monadical.com/s/commitsas",
+      "url": "/posts/commits.html",
+      "template": "posts/commits.html",
       "author": {
-        "name": "JDC",
-        "title": "DEV",
+        "name": "jdc",
+        "title": "dev",
         "handle": "@jdcaballerov",
-        "url": "twitter.com",
+        "url": "twitter.com/jdcaballero",
         "image": "/static/jdc.png"
       }
     }
