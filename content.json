@@ -495,21 +495,21 @@
         "image": "/static/max.jpg"
       }
     },
-    "testpix4": {
-      "title": "test pix 4",
-      "description": "asdasd adasd adsdas",
+    "testpix5": {
+      "title": "test pix 5 asdas",
+      "description": "asdasd adasdas dadasdasda",
       "date": "2020-07-10",
-      "img": "/static/testpix4",
+      "img": "/static/testpix5",
       "tags": [],
       "length": "31 min read",
       "source": "https://docs.monadical.com/s/asd",
-      "url": "/posts/testpix4.html",
-      "template": "posts/testpix4.html",
+      "url": "/posts/testpix5.html",
+      "template": "posts/testpix5.html",
       "author": {
         "name": "jdc",
         "title": "jdc",
         "handle": "@jdc",
-        "url": "asdasdj.com",
+        "url": "jdc.om",
         "image": "/static/jdc"
       }
     }
