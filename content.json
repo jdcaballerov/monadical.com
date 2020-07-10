@@ -234,7 +234,7 @@
     "company-not-ico": {
       "date": "2018-06-21",
       "img": "/static/company-not-ico-light.jpg",
-      "title": "We’re Building A Company, Not An ICO",
+      "title": "Weâre Building A Company, Not An ICO",
       "tags": [
         "Poker",
         "Mission",
@@ -310,7 +310,7 @@
       "url": "/posts/Trustless-is-A-Myth.html",
       "template": "posts/Trustless-is-A-Myth.html",
       "source": "https://docs.monadical.com/s/SyBidc_hG",
-      "description": "The word “trustless” implies that trust has been removed from the system altogether. But in reality, systems like Bitcoin require plenty of trust, it's just less obvious.",
+      "description": "The word âtrustlessâ implies that trust has been removed from the system altogether. But in reality, systems like Bitcoin require plenty of trust, it's just less obvious.",
       "author": {
         "name": "Max McCrea",
         "title": "Monadical CEO",
@@ -375,7 +375,7 @@
       "source": "https://docs.monadical.com/s/Bk3OSBvRf",
       "url": "/posts/Segwit-and-the-Lightning-Network.html",
       "template": "posts/Segwit-and-the-Lightning-Network.html",
-      "description": "Segwit increases total number of bytes for each transaction (very slightly), but changes the way that block size is calculated so that the signatures don’t count as much against the limit.",
+      "description": "Segwit increases total number of bytes for each transaction (very slightly), but changes the way that block size is calculated so that the signatures donât count as much against the limit.",
       "author": {
         "name": "Max McCrea",
         "title": "Monadical CEO",
@@ -421,7 +421,7 @@
       "source": "https://docs.monadical.com/s/SJXzOrvAf",
       "url": "/posts/Django-Concurrent-Write-Safety.html",
       "template": "posts/Django-Concurrent-Write-Safety.html",
-      "description": "When dealing with Django models accessed by multiple people, you want a way to make sure two requests don’t perform writes at the same time.",
+      "description": "When dealing with Django models accessed by multiple people, you want a way to make sure two requests donât perform writes at the same time.",
       "author": {
         "name": "Nick Sweeting",
         "title": "Monadical CTO",
@@ -486,7 +486,7 @@
       "source": "https://docs.monadical.com/s/B186oSPAM",
       "url": "/posts/Downswings-and-the-Information-Game.html",
       "template": "posts/Downswings-and-the-Information-Game.html",
-      "description": "I often hear players say, “I hate that site. It’s completely rigged. I can never win there.” Perhaps those players simply ran bad at first on that site...",
+      "description": "I often hear players say, âI hate that site. Itâs completely rigged. I can never win there.â Perhaps those players simply ran bad at first on that site...",
       "author": {
         "name": "Max McCrea",
         "title": "Monadical CEO",
@@ -495,21 +495,21 @@
         "image": "/static/max.jpg"
       }
     },
-    "stevie2": {
-      "title": "Stevie test",
-      "description": "hola holaholaholaholaholaholaholahola",
-      "date": "2020-07-10",
-      "img": "/static/stevie2",
+    "testpix": {
+      "title": "test pixss",
+      "description": "adasda asdad",
+      "date": "2020-07-25",
+      "img": "/static/testpix",
       "tags": [],
-      "length": "17 min read",
-      "source": "https://docs.monadical.com/s/add",
-      "url": "/posts/stevie2.html",
-      "template": "posts/stevie2.html",
+      "length": "19 min read",
+      "source": "https://docs.monadical.com/s/testpix",
+      "url": "/posts/testpix.html",
+      "template": "posts/testpix.html",
       "author": {
         "name": "jdc",
-        "title": "dev",
-        "handle": "@jd",
-        "url": "twitter.com",
+        "title": "jdc",
+        "handle": "@kas",
+        "url": "asd",
         "image": "/static/jdc.png"
       }
     }
