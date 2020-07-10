@@ -494,6 +494,27 @@
         "url": "https://twitter.com/ACowpig",
         "image": "/static/max.jpg"
       }
+    },
+    "50a07456-f9a3-4f50-85bd-4de9ede292db": {
+      "title": "Hola hola",
+      "description": "Hola testing",
+      "date": "2020-07-10",
+      "img": "asda.com",
+      "tags": [
+        "business",
+        "test"
+      ],
+      "length": "200 min read",
+      "source": "https://docs.monadical.com/s/faker",
+      "url": "/posts/how-to-make-remote-work-part-one.html",
+      "template": "/posts/how-to-make-remote-work-part-one.html",
+      "author": {
+        "name": "JDC",
+        "title": "DEV",
+        "handle": "@jdcaballerov",
+        "url": "twitter.com/jdcaballerov",
+        "image": "jko.com"
+      }
     }
   },
   "SOCIAL": {
