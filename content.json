@@ -495,25 +495,25 @@
         "image": "/static/max.jpg"
       }
     },
-    "50a07456-f9a3-4f50-85bd-4de9ede292db": {
-      "title": "Hola hola",
-      "description": "Hola testing",
+    "testor": {
+      "title": "Testor tes",
+      "description": "hola hola hola",
       "date": "2020-07-10",
-      "img": "asda.com",
+      "img": "/static/testor",
       "tags": [
-        "business",
-        "test"
+        "things",
+        "business"
       ],
-      "length": "200 min read",
-      "source": "https://docs.monadical.com/s/faker",
-      "url": "/posts/how-to-make-remote-work-part-one.html",
-      "template": "/posts/how-to-make-remote-work-part-one.html",
+      "length": "19 min read",
+      "source": "https://docs.monadical.com/s/holas",
+      "url": "/posts/testor.html",
+      "template": "posts/testor.html",
       "author": {
         "name": "JDC",
         "title": "DEV",
         "handle": "@jdcaballerov",
-        "url": "twitter.com/jdcaballerov",
-        "image": "jko.com"
+        "url": "https://www.twitter.com/jdcaballerov",
+        "image": "/static/hola"
       }
     }
   },
