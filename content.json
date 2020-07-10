@@ -495,25 +495,24 @@
         "image": "/static/max.jpg"
       }
     },
-    "testor": {
-      "title": "Testor tes",
-      "description": "hola hola hola",
-      "date": "2020-07-10",
-      "img": "/static/testor",
+    "test2": {
+      "title": "TEST3 ASDADS",
+      "description": "ASDASDAS ASDASDASD",
+      "date": "2020-07-11",
+      "img": "/static/test2",
       "tags": [
-        "things",
-        "business"
+        "HOLA"
       ],
-      "length": "19 min read",
-      "source": "https://docs.monadical.com/s/holas",
-      "url": "/posts/testor.html",
-      "template": "posts/testor.html",
+      "length": "31 min read",
+      "source": "https://docs.monadical.com/s/asdasd",
+      "url": "/posts/test2.html",
+      "template": "posts/test2.html",
       "author": {
         "name": "JDC",
         "title": "DEV",
         "handle": "@jdcaballerov",
-        "url": "https://www.twitter.com/jdcaballerov",
-        "image": "/static/hola"
+        "url": "twitter.com",
+        "image": "/static/jdc.png"
       }
     }
   },
