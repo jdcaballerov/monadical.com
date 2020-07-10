@@ -495,21 +495,21 @@
         "image": "/static/max.jpg"
       }
     },
-    "testpix": {
-      "title": "test pixss",
-      "description": "adasda asdad",
-      "date": "2020-07-25",
-      "img": "/static/testpix",
+    "testpix2": {
+      "title": "test pix 2",
+      "description": "asdadasda asdad asda dasdas d",
+      "date": "2020-07-16",
+      "img": "/static/testpix2",
       "tags": [],
-      "length": "19 min read",
-      "source": "https://docs.monadical.com/s/testpix",
-      "url": "/posts/testpix.html",
-      "template": "posts/testpix.html",
+      "length": "31 min read",
+      "source": "https://docs.monadical.com/s/asdasd",
+      "url": "/posts/testpix2.html",
+      "template": "posts/testpix2.html",
       "author": {
         "name": "jdc",
-        "title": "jdc",
-        "handle": "@kas",
-        "url": "asd",
+        "title": "dev",
+        "handle": "@as",
+        "url": "adsd.com",
         "image": "/static/jdc.png"
       }
     }
