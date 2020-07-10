@@ -494,25 +494,6 @@
         "url": "https://twitter.com/ACowpig",
         "image": "/static/max.jpg"
       }
-    },
-    "title": "My test",
-    "description": "Hola testing",
-    "date": "2020-07-10",
-    "img": "",
-    "tags": [
-      "business",
-      "linux"
-    ],
-    "length": "100 min read",
-    "source": "https://docs.monadical.com/s/fake",
-    "url": "/posts/hola.html",
-    "template": "/posts/hola.html",
-    "author": {
-      "name": "JDC",
-      "title": "JDC's",
-      "handle": "jdcaballerov",
-      "url": "https://www.twitter.com/jdcaballerov",
-      "image": "fake.html"
     }
   },
   "SOCIAL": {
