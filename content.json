@@ -495,21 +495,21 @@
         "image": "/static/max.jpg"
       }
     },
-    "asdasdad ": {
-      "title": "asd asd asd",
-      "description": " asd asda d",
+    "test-picture": {
+      "title": "test test tes",
+      "description": "hola gola hola",
       "date": "2020-07-11",
-      "img": "/static/asdasdad ",
+      "img": "/static/test-picture",
       "tags": [],
       "length": "31 min read",
-      "source": "https://docs.monadical.com/s/asd",
-      "url": "/posts/asdasdad .html",
-      "template": "posts/asdasdad .html",
+      "source": "https://docs.monadical.com/s/lulz",
+      "url": "/posts/test-picture.html",
+      "template": "posts/test-picture.html",
       "author": {
         "name": "jdc",
         "title": "jdc",
         "handle": "@jdc",
-        "url": "twitter.com",
+        "url": "jdc.com",
         "image": "/static/jdc.png"
       }
     }
