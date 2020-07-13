@@ -495,21 +495,24 @@
         "image": "/static/max.jpg"
       }
     },
-    "test-picture": {
-      "title": "test test tes",
-      "description": "hola gola hola",
-      "date": "2020-07-11",
-      "img": "/static/test-picture",
-      "tags": [],
-      "length": "31 min read",
-      "source": "https://docs.monadical.com/s/lulz",
-      "url": "/posts/test-picture.html",
-      "template": "posts/test-picture.html",
+    "my-awesome-test-post": {
+      "title": "My awesome test post",
+      "description": "My awesome test post My awesome test post My awesome test post",
+      "date": "2020-07-13",
+      "img": "/static/my-awesome-test-post",
+      "tags": [
+        "test",
+        "awesome"
+      ],
+      "length": "12 min read",
+      "source": "https://docs.monadical.com/s/awesome-post",
+      "url": "/posts/my-awesome-test-post.html",
+      "template": "posts/my-awesome-test-post.html",
       "author": {
         "name": "jdc",
-        "title": "jdc",
+        "title": "Dev",
         "handle": "@jdc",
-        "url": "jdc.com",
+        "url": "twitter.com/jdcaballerov",
         "image": "/static/jdc.png"
       }
     }
